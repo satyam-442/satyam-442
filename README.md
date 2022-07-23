@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satyam Tiwari</h1>
 <h3 align="center">Data Engineer and Full Stack Developer</h3>
 
+<img align="right" alt="Coding" width="400" height="400" src="https://firebasestorage.googleapis.com/v0/b/collegeproject-614a6.appspot.com/o/profile.jpg?alt=media&token=4e384ea0-28ee-4511-b8ac-083270906504">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-442&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-442" /> </p>
 
 <p align="left"> <a href="https://twitter.com/satyamtiwari210" target="blank"><img src="https://img.shields.io/twitter/follow/satyamtiwari210?logo=twitter&style=for-the-badge" alt="satyamtiwari210" /></a> </p>
